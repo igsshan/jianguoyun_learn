@@ -1,4 +1,4 @@
-## CharGPT
+## ChatGPT
 
 - [ChatGPT研究文件](\igsshan_learn\ChatGPT\ChatGPT 研究框架（2023）(1).pdf)
 
