@@ -1,6 +1,6 @@
 ## CharGPT
 
-- [ChatGPT研究文件](https://www.jianguoyun.com/d/home#/sandbox/168623b/2100b652210f93cb/%2FChatGPT/?previewingFileName=ChatGPT%20%E7%A0%94%E7%A9%B6%E6%A1%86%E6%9E%B6%EF%BC%882023%EF%BC%89%281%29.pdf)
+- [ChatGPT研究文件](E:\igsshan_learn\ChatGPT\ChatGPT 研究框架（2023）(1).pdf)
 
 ## JAVA
 
